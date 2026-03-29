@@ -31,5 +31,3 @@ This project demonstrates basic frontend development skills and logic building w
 
 ---
 
-## 📂 Project Structure
-
